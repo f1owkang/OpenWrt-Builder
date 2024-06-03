@@ -1,7 +1,8 @@
 # OpenWrt Builder
-<div align="center">
+<p align="center">
   <img src="./images/openwrt.png" alt="OpenWrt />
-</div>
+</p>
+
 本仓库是用于专门编译OpenWrt的云编译。主要为Redmi-AX5JDC设备编译的OpenWrt固件。
 
 ## 固件信息
